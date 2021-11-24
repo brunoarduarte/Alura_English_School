@@ -1,0 +1,27 @@
+{
+  "name": "app_english_school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./api/index.js",
+  "scripts": {
+    "start": "nodemon ./api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoarduarte/Alura_English_School.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoarduarte/Alura_English_School/issues"
+  },
+  "homepage": "https://github.com/brunoarduarte/Alura_English_School#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
