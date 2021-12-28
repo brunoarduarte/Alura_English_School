@@ -23,7 +23,7 @@
     "express": "^4.17.1",
     "mysql2": "^2.3.3",
     "path": "^0.12.7",
-    "sequelize": "^6.12.0-alpha.1",
+    "sequelize": "^7.0.0-alpha.3",
     "sequelize-cli": "^6.3.0"
   },
   "devDependencies": {
