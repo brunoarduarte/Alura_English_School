@@ -1,5 +1,5 @@
 # Bem vindo ao meu projeto Alura English School
-### Este repositório foi criado no curso de ORM com NodeJS: API com Sequelize e MySQL.
+### Este repositório foi criado no curso de ORM com NodeJS: API com Sequelize e MySQL na Alura.
 O projeto consiste na criação do back-end para integração com o banco de dados MYSQL utilizando a ORM Sequelize. O algoritmo faz a gestão de pessoas matriculadas, as respectivas matriculas, os niveis, bem como as turmas formadas.
 
 A arquitetura utilizada foi a MSC (Model/Service/Controller) .
